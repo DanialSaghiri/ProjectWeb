@@ -52,13 +52,13 @@ h4{
     font-size: 40px;
 }
 header{
-    height: 100vh;
+    height: 70vh;
     background: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)),url('../imags/h1_hero1.jpg')no-repeat center center / cover;
     color: white;
 }
 h1{
     font-size: 60px;
-    margin:80px 0 30px 0;
+    margin:120px 0 30px 0;
 }
 ul{
     list-style: none;
